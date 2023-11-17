@@ -10,9 +10,5 @@ git을 사용하는 연습을 해 봅시다.
 
 ## 추가 변경 사항
 
-git log, git log
--commit
-
-## 삭제될 변경 사항
-이 부분은 삭제될 것
+git log, git log (유지)
 -commit
