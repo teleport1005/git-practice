@@ -9,3 +9,6 @@ git을 사용하는 연습을 해 봅시다.
 
 
 ## 추가 변경 사항
+
+git log, git log
+-commit
