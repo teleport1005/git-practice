@@ -15,3 +15,4 @@ git log, git log
 
 ## 삭제될 변경 사항
 이 부분은 삭제될 것
+-commit
